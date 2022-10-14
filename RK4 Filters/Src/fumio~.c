@@ -1,4 +1,11 @@
-/* fumio~ - Simulation of a 2-poles Korg MS20 Filter */
+/**
+ * @file fumio~.c
+ * @author johannes regnier
+ * @brief fumio~ - Simulation of a 2-poles Korg MS20 Filter
+ * @version 0.1
+ * 
+ */
+
 /* based on Miller Puckette's bob~ (Runge-Kutta 4th order)*/
 /* copyright 2015 Miller Puckette - BSD license */
 

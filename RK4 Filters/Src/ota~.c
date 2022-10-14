@@ -1,4 +1,11 @@
-/* ota~ - Simulation of a 4-poles OTA Ladder Filter */
+/**
+ * @file ota~.c
+ * @author johannes regnier
+ * @brief Simulation of a 4-poles OTA Ladder Filter 
+ * @version 0.1
+ */
+
+
 /* based on Miller Puckette's bob~ (Runge-Kutta 4th order)*/
 /* copyright 2015 Miller Puckette - BSD license */
 
