@@ -1,7 +1,7 @@
 /* ring64~ - A zero delay feedback 64 bands resonator */
-/* Bandpass filter based on A.Zavalishin "The Art of VA Filter Design 1.1.1" and on code from Robin Schmidt*/
+/* Bandpass filter based on A.Zavalishin "The Art of VA Filter Design 1.1.1"*/
 
-/*  Johannes Regnier 04/2018 jregnier@ucsd.edu */
+/* copyright 2018 Johannes Regnier - BSD license */
 
 #include "m_pd.h"
 #include <stdlib.h>

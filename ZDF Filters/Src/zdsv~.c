@@ -1,6 +1,7 @@
 /* zdsv~ - A zero delay feedback state variable filter */
 /* Based on A.Zavalishin TPT*/
 
+/* copyright 2018 Johannes Regnier - BSD license */
 
 
 #include "m_pd.h"
